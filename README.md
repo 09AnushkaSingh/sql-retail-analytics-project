@@ -1,4 +1,4 @@
-# sql-retail-analytics-project
+# Retail Sales & Customer Analytics (SQL Project)
 
 ## Project Overview:
 **Project Type:** End to End Retail Data Analytics <br>
