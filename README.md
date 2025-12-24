@@ -88,12 +88,6 @@ SQL queries focus on:
  * Explore SQL queries inside the SQL folder for business analysis.
 
 
-## 🚀Future Enhancements
- * Add Power BI dashboard for visual storytelling
- * Extend SQL analysis with more KPIs
- * Automate pipeline for larger datasets
-
-
 ## 👩‍💻Author
  * Name: Anushka Singh
  * Institution: Gokhale Institute of Politics and Economics
