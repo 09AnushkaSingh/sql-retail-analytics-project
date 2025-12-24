@@ -1,1 +1,0 @@
--- Description: End-to-end SQL analysis using aggregations, CTEs, window functions and business logic on retail transaction data.
